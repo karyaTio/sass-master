@@ -1,0 +1,15 @@
+$font-stack-serif: Georgia, Times, serif;
+$font-stack-sans-serif: Helvetica, Arial, sans-serif;
+
+body {
+  background: #ff4444;
+  color: white;
+}
+
+h1 {
+  font-family: $font-stack-serif;
+}
+
+h2 {
+  font-family: $font-stack-sans-serif;
+}

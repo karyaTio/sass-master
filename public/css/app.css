@@ -1,0 +1,15 @@
+body {
+  background: #ff4444;
+  color: white; }
+
+h1 {
+  font-family: Georgia, Times, serif; }
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif; }
+
+#header {
+  border: solid 1px black;
+  padding: 40px; }
+
+/*# sourceMappingURL=app.css.map */
